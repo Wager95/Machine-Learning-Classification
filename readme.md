@@ -6,7 +6,7 @@ This analysis will:
 - Develop insights
 - Build Machine Learning Models to predict the cross-sell success.
 
- **This repository consists of 4 files:**
+ **This repository consists of 4 files in the respective order:**
  1. Dictionary for the different variables in the dataset.
  2. The analysed dataset.
  3. The Python code
